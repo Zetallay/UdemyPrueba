@@ -1,0 +1,29 @@
+body{
+	background-image: linear-gradient(to right,green, red);
+}
+h1, h2, h3{
+	margin: 20px;
+	text-align: center;
+}
+
+
+.container{
+		display: flex;
+		justify-content: center;
+}
+input{
+
+	margin: 10px;
+}
+
+
+#boton{
+	display: block;
+	color: white;
+	text-align: center;
+	margin: 10px auto;
+	border-radius: 30px;
+	background: red;
+	width: 100px;
+	height: 40px;
+}
